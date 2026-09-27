@@ -6,7 +6,7 @@ A simple quiz game built with python
 
 
 
-- [Table of contents](#table-of-contents)
+
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Requirments](#requirments)
@@ -14,6 +14,7 @@ A simple quiz game built with python
 - [Envoirment Setup](#envoirment-setup)
 - [Usage](#usage)
 - [Exmaple Outout](#exmaple-outout)
+- [Screenshot](#screenshot)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [Licnce](#licnce)
@@ -112,6 +113,17 @@ wrong
 your score is: 1 out fo 3
 keep praticing alex
 ```
+## Screenshot
+
+
+### start game
+![start game](pictures\1.png)
+
+### quiz
+![quiz](pictures\2.png)
+
+### final score
+![final score](pictures\3.png)
 
 ## Roadmap
 - [x] add mutiple quiz question
