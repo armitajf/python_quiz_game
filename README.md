@@ -1,5 +1,5 @@
 # Python Quiz Game
-A simple quiz game built with python
+A simple quiz game built with Python
 ## Table of contents
 
 
