@@ -48,11 +48,17 @@ python_quiz_game/
 │   README.md
 ```
 ### File Description
-- `main.py` - main file used to run quiz game 
-- `question.py` - stores questions and answers
-- `.env.example` - shows the envoirment variaples needed by the project
-- `.gitignore` - tells git which files and folders shold not be tracked
-- `README.md` - contains the project documentation
+| file | description |
+| --- | --- |
+| `main.py` | main file used to run quiz game |
+| `question.py` | stores questions and answers |
+| `.env.example` | shows the envoirment |variaples needed by the project |
+| `.gitignore` | tells git which files and folders shold not be tracked |
+| `README.md` | contains the project documentation |
+| `picture/` | stors project screenshots |
+| `picture/1.png` | screenshot of the start |
+| `picture/2.png` | screenshot of the quiz section |
+| `picture/3.png` | screenshot of the result |
 
 ## Requirments
 Before running the project, make sure you have:
